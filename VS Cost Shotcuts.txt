@@ -1,0 +1,10 @@
+Zoom in and Out
+
+{ "key": "ctrl+numpad_add",      "command": "editor.action.fontZoomIn" },
+{ "key": "shift+ctrl+=",         "command": "editor.action.fontZoomIn" },
+{ "key": "ctrl+=",               "command": "editor.action.fontZoomIn" },
+{ "key": "ctrl+numpad_subtract", "command": "editor.action.fontZoomOut" },
+{ "key": "shift+ctrl+-",         "command": "editor.action.fontZoomOut" },
+{ "key": "ctrl+-",               "command": "editor.action.fontZoomOut" },
+{ "key": "ctrl+numpad0",         "command": "editor.action.fontZoomReset" },
+{ "key": "ctrl+0",               "command": "editor.action.fontZoomReset" },
